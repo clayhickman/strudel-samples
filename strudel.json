@@ -60,5 +60,19 @@
     "voxswell/05-Ds4.ogg",
     "voxswell/06-Cs5.ogg",
     "voxswell/07-Cs5.ogg"
+  ],
+  "strings": [
+    "strings/00-v1-c1.ogg",
+    "strings/01-v1-c2.ogg",
+    "strings/02-v1-c3.ogg",
+    "strings/03-v1-c4.ogg",
+    "strings/04-v2-c1.ogg",
+    "strings/05-v2-c2.ogg",
+    "strings/06-v2-c3.ogg",
+    "strings/07-v2-c4.ogg",
+    "strings/08-v3-c1.ogg",
+    "strings/09-v3-c2.ogg",
+    "strings/10-v3-c3.ogg",
+    "strings/11-v3-c4.ogg"
   ]
 }
