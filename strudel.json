@@ -60,5 +60,11 @@
     "voxswell/05-Ds4.wav",
     "voxswell/06-Cs5.wav",
     "voxswell/07-Cs5.wav"
-  ]
+  ],
+  "burial": [
+  "burial/00-thinking-of-you.wav",
+  "burial/01-when-youre-not-around.wav",
+  "burial/02-with-or-without-you-2.wav",
+  "burial/03-with-or-without-you.wav"
+ ]
 }
