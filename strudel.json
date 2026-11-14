@@ -1,4 +1,5 @@
 {
+  "_base": "https://raw.githubusercontent.com/clayhickman/strudel-samples/main/",
   "vox": [
     "vox/00-B3-t2.wav",
     "vox/01-Cs4-t1.wav",
